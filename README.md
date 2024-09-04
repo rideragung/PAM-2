@@ -14,7 +14,7 @@ radio button : +,-,*, /
 
 Jika tombol hitung ditekan, lakukan perhitungan sesuai dengan operasi yang dipilih radio button
 
-Tampilkan hasil perhitungan dan nim, nama di halaman kedua</p>
+Tampilkan hasil perhitungan dan nim, nama di halaman kedua </p>
 
 
 <p align="center">
