@@ -3,7 +3,8 @@
 <h1 align="center" style="font-weight: bold;">💻Tugas 2</h1>
 
 
-<p align="center">Buat aplikasi
+<p align="center">
+Buat aplikasi
 
 2 input edit text
 
