@@ -1,9 +1,19 @@
 
 
-<h1 align="center" style="font-weight: bold;">💻Tugas 1</h1>
+<h1 align="center" style="font-weight: bold;">💻Tugas 2</h1>
 
 
-<p align="center">Buat aplikasi android menampilkan nim dan nama masing-masing. Buat project di gitlab atau github, kumpulkan url link project github/gitlab</p>
+<p align="center">Buat aplikasi
+
+2 input edit text
+
+radio button : +,-,*, /
+
+1 tombol "hitung"
+
+Jika tombol hitung ditekan, lakukan perhitungan sesuai dengan operasi yang dipilih radio button
+
+Tampilkan hasil perhitungan dan nim, nama di halaman kedua</p>
 
 
 <p align="center">
