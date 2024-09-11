@@ -4,16 +4,10 @@
 
 
 <p align="center">
-Buat aplikasi
-
-2 input edit text
-
+Buat aplikasi dengan 2 input edit text
 radio button : +,-,*, /
-
 1 tombol "hitung"
-
 Jika tombol hitung ditekan, lakukan perhitungan sesuai dengan operasi yang dipilih radio button
-
 Tampilkan hasil perhitungan dan nim, nama di halaman kedua </p>
 
 
