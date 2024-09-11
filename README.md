@@ -12,7 +12,7 @@ Tampilkan hasil perhitungan dan nim, nama di halaman kedua </p>
 
 
 <p align="center">
-<a href="https://github.com/rideragung/PAM-1">📱 Bangkit Agung Laksono - 225150400111050</a>
+<a href="https://github.com/rideragung/PAM-2">📱 Bangkit Agung Laksono - 225150400111050</a>
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
